@@ -27,18 +27,6 @@ You can also provide new data to the trained tree and let it predict the result.
 
 ![Credit approval decision tree](screenshots/decision-tree-credit.png)
 
-## Technologies
-
-- C#
-- .NET
-- Recursive algorithms
-- Generic types and enums
-- Gini Impurity
-
 ## How to Run
 
 Open the project in Visual Studio and run the console application.
-
-## Author
-
-Irene Hofer
