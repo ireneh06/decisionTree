@@ -1,0 +1,28 @@
+C:\Users\Irene\OneDrive - HTL Neufelden\Dokumente\HTL 4\MELA\Programme\02_Entscheidungsbaum\02_Entscheidungsbaum\02_Entscheidungsbaum\bin\Debug\net8.0\02_Entscheidungsbaum.exe
+C:\Users\Irene\OneDrive - HTL Neufelden\Dokumente\HTL 4\MELA\Programme\02_Entscheidungsbaum\02_Entscheidungsbaum\02_Entscheidungsbaum\bin\Debug\net8.0\02_Entscheidungsbaum.deps.json
+C:\Users\Irene\OneDrive - HTL Neufelden\Dokumente\HTL 4\MELA\Programme\02_Entscheidungsbaum\02_Entscheidungsbaum\02_Entscheidungsbaum\bin\Debug\net8.0\02_Entscheidungsbaum.runtimeconfig.json
+C:\Users\Irene\OneDrive - HTL Neufelden\Dokumente\HTL 4\MELA\Programme\02_Entscheidungsbaum\02_Entscheidungsbaum\02_Entscheidungsbaum\bin\Debug\net8.0\02_Entscheidungsbaum.dll
+C:\Users\Irene\OneDrive - HTL Neufelden\Dokumente\HTL 4\MELA\Programme\02_Entscheidungsbaum\02_Entscheidungsbaum\02_Entscheidungsbaum\bin\Debug\net8.0\02_Entscheidungsbaum.pdb
+C:\Users\Irene\OneDrive - HTL Neufelden\Dokumente\HTL 4\MELA\Programme\02_Entscheidungsbaum\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\02_Entscheidungsbaum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irene\OneDrive - HTL Neufelden\Dokumente\HTL 4\MELA\Programme\02_Entscheidungsbaum\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\02_Entscheidungsbaum.AssemblyInfoInputs.cache
+C:\Users\Irene\OneDrive - HTL Neufelden\Dokumente\HTL 4\MELA\Programme\02_Entscheidungsbaum\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\02_Entscheidungsbaum.AssemblyInfo.cs
+C:\Users\Irene\OneDrive - HTL Neufelden\Dokumente\HTL 4\MELA\Programme\02_Entscheidungsbaum\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\02_Entscheidungsbaum.csproj.CoreCompileInputs.cache
+C:\Users\Irene\OneDrive - HTL Neufelden\Dokumente\HTL 4\MELA\Programme\02_Entscheidungsbaum\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\02_Entscheidungsbaum.dll
+C:\Users\Irene\OneDrive - HTL Neufelden\Dokumente\HTL 4\MELA\Programme\02_Entscheidungsbaum\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\refint\02_Entscheidungsbaum.dll
+C:\Users\Irene\OneDrive - HTL Neufelden\Dokumente\HTL 4\MELA\Programme\02_Entscheidungsbaum\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\02_Entscheidungsbaum.pdb
+C:\Users\Irene\OneDrive - HTL Neufelden\Dokumente\HTL 4\MELA\Programme\02_Entscheidungsbaum\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\02_Entscheidungsbaum.genruntimeconfig.cache
+C:\Users\Irene\OneDrive - HTL Neufelden\Dokumente\HTL 4\MELA\Programme\02_Entscheidungsbaum\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\ref\02_Entscheidungsbaum.dll
+C:\Projects\C#\02_Entscheidungsbaum\02_Entscheidungsbaum\bin\Debug\net8.0\02_Entscheidungsbaum.exe
+C:\Projects\C#\02_Entscheidungsbaum\02_Entscheidungsbaum\bin\Debug\net8.0\02_Entscheidungsbaum.deps.json
+C:\Projects\C#\02_Entscheidungsbaum\02_Entscheidungsbaum\bin\Debug\net8.0\02_Entscheidungsbaum.runtimeconfig.json
+C:\Projects\C#\02_Entscheidungsbaum\02_Entscheidungsbaum\bin\Debug\net8.0\02_Entscheidungsbaum.dll
+C:\Projects\C#\02_Entscheidungsbaum\02_Entscheidungsbaum\bin\Debug\net8.0\02_Entscheidungsbaum.pdb
+C:\Projects\C#\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\02_Entscheidungsbaum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\02_Entscheidungsbaum.AssemblyInfoInputs.cache
+C:\Projects\C#\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\02_Entscheidungsbaum.AssemblyInfo.cs
+C:\Projects\C#\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\02_Entscheidungsbaum.csproj.CoreCompileInputs.cache
+C:\Projects\C#\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\02_Entscheidungsbaum.dll
+C:\Projects\C#\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\refint\02_Entscheidungsbaum.dll
+C:\Projects\C#\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\02_Entscheidungsbaum.pdb
+C:\Projects\C#\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\02_Entscheidungsbaum.genruntimeconfig.cache
+C:\Projects\C#\02_Entscheidungsbaum\02_Entscheidungsbaum\obj\Debug\net8.0\ref\02_Entscheidungsbaum.dll
